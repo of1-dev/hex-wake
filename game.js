@@ -252,7 +252,7 @@
     };
   }
 
-  /* —— original silhouettes (procedural, not Palm PRC) —— */
+  /* —— original silhouettes (procedural) —— */
   function paintHull(c, clsId, s) {
     c.lineJoin = "round";
     c.lineCap = "round";
