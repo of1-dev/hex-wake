@@ -1,8 +1,8 @@
-# SPACE WAR 0.1.6
+# HEX WAKE 0.1.7
 
 First playable loop. Not 1.0 until speed sticks, hold-fire specials, and ranks that buy stats.
 
-Browser homage to Michael Read’s 2001 Palm OS freeware game. Original mechanics, original art. Not a Paramount product. Not a clone of any existing source port.
+Hex-grid fleet tactics in the browser. Original systems and art.
 
 Open `index.html` in a phone or desktop browser.
 
